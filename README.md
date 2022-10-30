@@ -11,5 +11,5 @@ Since Google Colab assigns the GPU randomly, hence you might get different resul
 Google Colab + Tesla P100.
 
 ## Reference
-Federated Split GANs (Pranvera Kortoçi, Yilei Liang, Pengyuan Zhou, Lik-Hang Lee, Abbas Mehrabi, Pan Hui, Sasu Tarkoma, Jon Crowcroft)
-https://arxiv.org/abs/2207.01750
+Federated split GANs for collaborative training with heterogeneous devices (Pranvera Kortoçi, Yilei Liang, Pengyuan Zhou, Lik-Hang Lee, Abbas Mehrabi, Pan Hui, Sasu Tarkoma, Jon Crowcroft)
+https://www.sciencedirect.com/science/article/pii/S2665963822001208
