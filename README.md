@@ -13,4 +13,4 @@ Google Colab + Tesla P100.
 ## Reference
 Federated split GANs for collaborative training with heterogeneous devices (Pranvera Kortoçi, Yilei Liang, Pengyuan Zhou, Lik-Hang Lee, Abbas Mehrabi, Pan Hui, Sasu Tarkoma, Jon Crowcroft)
 
-https://www.sciencedirect.com/science/article/pii/S2665963822001208
+https://doi.org/10.1016/j.simpa.2022.100436
